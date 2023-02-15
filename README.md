@@ -33,19 +33,15 @@
 
 ## <a id="setup"></a> 📁 〢 Install
 
-You can use the normal Injector published on Github to compile it.
+1. You need a programm for compiling the Code into a dll:
+- [Visual Studio 2022](https://visualstudio.microsoft.com/):
 
-1. Use a basic Injector with a source. which you can find on Github.
-2. `Fivem-Source/Club - Source Exec/(Source)` Delete all files in the folder and paste Source.
-3. Compile via Sln
-4. Enter the game and open Insert, then paste the menu you want to use.
+2. You need a trusted Injector from your own choose.
+- My own is coming soon ...
+
+`3. After Injecting you will have to press the Insert Button to Open the Menu`
 
 <br>
-
-  
-   You will need Visual Studio to compile it.:
-
-- [Visual Studio](https://visualstudio.microsoft.com/):
 
 
 
@@ -62,12 +58,12 @@ https://user-images.githubusercontent.com/94861415/208510041-ac7ceb34-153f-45aa-
 --- 
 
   <p align="center">
-    <a href="https://discord.gg/2euDQqzD8Y">
-        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/923947526552432731/widget.png?style=banner2"/>
+    <a href="https://discord.gg/tv8vSexU">
+        <img title="ikwy's shop" alt="IKWY DISCORD" src="https://discordapp.com/api/guilds/923947526552432731/widget.png?style=banner2"/>
     </a>
 </p> 
  
-## 💬 ・[Discord](https://discord.gg/2euDQqzD8Y) | MAIN SERVER
+## 💬 ・[Discord](https://discord.gg/tv8vSexU) | MAIN SERVER
 `CLICK BLUE BUTTON FOR JOIN SERVER.`
 
  ### 🛒〢 `SHOP`
