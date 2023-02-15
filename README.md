@@ -1,9 +1,9 @@
 <h1 align="center">
-  Fivem EXEC 💉
+  ImGui Menu Developer 💉
 </h1>
 
 <p align="center">
-  Source exec for all structures
+  Full Menu rights and Source Code
 </p>
 
 
