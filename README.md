@@ -1,18 +1,10 @@
 <h1 align="center">
-  ImGui Menu Developer 💉
+  ImGui Menu Developer 💻
 </h1>
 
 <p align="center">
-  Full Menu rights and Source Code
-</p>
-
-
- 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Serups/Fivem-Source?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/Serups/Fivem-Source?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/Serups/Fivem-Source?color=5ac18e&label=Stars&style=flat-square"/>
-
+  All Menus are designed by ikwy, the menus dont have any other special functions for Games.
+  On questions and suggestions you can feel free to text me on Discord.
 </p>
 
 ---
@@ -110,5 +102,5 @@ A website that I created to introduce myself from start to finish. hope you like
   <br>
 
 <p align="center">
-  Copyright © 2021 - 2022
+  Copyright © 2023
 <br>
