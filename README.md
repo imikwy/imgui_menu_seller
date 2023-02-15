@@ -8,7 +8,9 @@
 </p>
 
 ---
+<center>
 ![image](https://user-images.githubusercontent.com/124514900/219111191-63c7eaba-fd9e-4497-b02d-098647d2e5f0.png)
+</center>
 ---
 
 
