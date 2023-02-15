@@ -9,17 +9,19 @@
 
 ---
 
+---
+
 
 ## <a id="features"></a>🛑 〢 Menu Features
 
-### Exec
-- Injector .dll 8 .lua 
-- Dumper Scripts (All Client)
-- Resource
-- Webhook Delete
-- LUA Menu
+### 1. Project CSGO Menu
+- Aimbot
+- Visuals
+- Settings (Misc)
+- Skins
+- Configs
 
-### MISC
+### 2. Project CSGO Menu
 - Godmode 
 - Aimbot 
 - SuperJump
