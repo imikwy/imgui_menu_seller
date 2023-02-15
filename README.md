@@ -9,12 +9,8 @@
 
 ---
 
-## <a id="content"></a>📜 〢 Read
 
-- Read the instructions carefully.
-- Exec for Fivem's latest version, which you can check for updates yourself.
-
-## <a id="features"></a>🛑 〢 Features
+## <a id="features"></a>🛑 〢 Menu Features
 
 ### Exec
 - Injector .dll 8 .lua 
