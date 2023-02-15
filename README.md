@@ -48,11 +48,6 @@
 `3. After Injecting you will have to press the Insert Button to Open the Menu`
 
 ---
-
-
-https://user-images.githubusercontent.com/94861415/208510041-ac7ceb34-153f-45aa-b987-b325c6f3aa76.mp4
-
---- 
  
 ## 💬 ・[Discord](https://discord.gg/tv8vSexU) | MAIN SERVER
 `CLICK BLUE BUTTON FOR JOIN SERVER.`
