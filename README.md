@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  All Menus are designed by ikwy, the menus dont have any other special functions for Games.
-  On questions and suggestions you can feel free to text me on Discord.
+  All Menus are designed and developed by ikwy, the menus dont have any other special functions for Games.
+  On questions and suggestions you can feel free to text me on Discord: ikwy#4621.
 </p>
 
 ---
@@ -21,13 +21,13 @@
 - Skins
 - Configs
 
-### 2. Project CSGO Menu
-- Godmode 
-- Aimbot 
-- SuperJump
-- Save & Config
-- Bypass 
+### 2. coming soon
+- coming soon
 
+<p>
+  The Usage of the menus is obviously not only for the same games, I write up here.
+  You can feel free to edit and add features after buying.
+</p>
 
 ---
 
